@@ -1,0 +1,7 @@
+*.csv
+*.tsv
+*.zip
+
+*.pyc
+venv/
+log/
